@@ -1,0 +1,6 @@
+TV
+laptop
+tablet
+mouse
+keyboard
+phone
